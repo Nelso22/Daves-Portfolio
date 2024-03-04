@@ -123,6 +123,12 @@ video {
   }
 }
 
+@media screen and (max-width: 671px) {
+  .shift {
+    transform: translateX(35%);
+  }
+}
+
 div a {
   border: none;
 }
